@@ -1,5 +1,9 @@
 # Harvey Local
 
+Document link: https://docs.google.com/document/d/1X_5ww3-M5um0UaVapm2tuFS4hpe468IH/edit?usp=sharing&ouid=102096746767866940566&rtpof=true&sd=true
+Loom video: https://www.loom.com/share/ffae3cbac2974ac39214af25f821ee70
+
+
 A multi-product AI sales agent that runs **entirely on your own computer**: local LLM inference through
 Ollama (Qwen3, Apache-2.0), SQLite storage, FastAPI backend, local sentence-transformer embeddings, and a
 dependency-free dashboard. No API keys, no per-token billing, no cloud inference, no silent fallback.
