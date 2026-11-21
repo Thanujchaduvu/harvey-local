@@ -1,0 +1,11 @@
+# Runtime (all permissive licences — see docs/LICENSES.md)
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+httpx>=0.27,<1
+pydantic>=2.5,<3
+psutil>=5.9
+numpy>=1.26
+beautifulsoup4>=4.12
+sentence-transformers>=3.0      # local embeddings (pulls PyTorch)
+# Optional: JS-rendered pages during *online* research only
+# playwright>=1.40

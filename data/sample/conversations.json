@@ -1,0 +1,178 @@
+[
+  {
+    "id": "c1",
+    "expected": "interested",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Interesting timing. We've had a lot of missed arrival windows lately and I'd like to learn more about how this works."
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "expected": "meeting_request",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Happy to jump on a call. I'm free Thursday at 2pm ET if that works for you."
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "expected": "pricing_objection",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Looks useful but our budget is really tight this year and I doubt we can add another subscription."
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "expected": "timing_objection",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Not a priority right now, we're swamped until after the summer season. Try me again in September."
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "expected": "has_solution",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "We already use a scheduling tool and the team is happy with it, thanks."
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "expected": "not_interested",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "No thanks, not interested."
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "expected": "unsubscribe",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Please remove me from your list and don't email me again."
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "expected": "out_of_office",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Automatic reply: I am out of the office until Monday the 12th with limited access to email."
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "expected": "referral",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "I'm not the right person for this. Our VP of Operations, Dana Cho, handles it. Please contact her directly."
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "expected": "question",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "How does it integrate with QuickBooks? And is there a mobile app for the technicians?"
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "expected": "meeting_request",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Sure, send me a few times."
+      },
+      {
+        "from": "us",
+        "text": "Great: Tuesday 10am, Wednesday 3pm or Friday 11am?"
+      },
+      {
+        "from": "prospect",
+        "text": "Tuesday at 10 works for me."
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "expected": "pricing_objection",
+    "thread": [
+      {
+        "from": "us",
+        "text": "Hi, I noticed your team is growing and wanted to share how we help with scheduling. Open to a 15-minute call?"
+      },
+      {
+        "from": "prospect",
+        "text": "Interesting, what does it cost? Honestly we are a small shop and anything over a couple hundred a month is out of reach."
+      }
+    ]
+  }
+]
